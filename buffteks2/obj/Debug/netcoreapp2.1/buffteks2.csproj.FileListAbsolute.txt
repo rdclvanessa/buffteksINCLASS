@@ -1,0 +1,11 @@
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/bin/Debug/netcoreapp2.1/buffteks2.deps.json
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/bin/Debug/netcoreapp2.1/buffteks2.runtimeconfig.json
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/bin/Debug/netcoreapp2.1/buffteks2.runtimeconfig.dev.json
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/bin/Debug/netcoreapp2.1/buffteks2.dll
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/bin/Debug/netcoreapp2.1/buffteks2.pdb
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.csprojAssemblyReference.cache
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.csproj.CoreCompileInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.AssemblyInfoInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.AssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.dll
+/Users/Xander/Desktop/CIDM3312/inClass/buffteks2/obj/Debug/netcoreapp2.1/buffteks2.pdb
